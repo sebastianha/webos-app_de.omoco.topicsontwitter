@@ -1,5 +1,5 @@
 webOS App – Topics on Twitter (de.omoco.topicsontwitter)
-==============================================
+========================================================
 
 - Package ID : 	 de.omoco.topicsontwitter 
 - Version : 	 3.0.1 
