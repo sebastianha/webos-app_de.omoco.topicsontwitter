@@ -1,0 +1,10 @@
+{
+	"id": "de.omoco.topicsontwitter",
+	"version": "3.0.1",
+	"vendor": "topicsontwitter.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "Topics on Twitter",
+	"icon": "icon.png",
+	"uiRevision": "2"
+}
